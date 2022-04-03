@@ -1,3 +1,3 @@
 seMethods Project
 
-Setting up CI. Made first pull..
+Setting up CI. Merged Main & Mater Made first pull.
